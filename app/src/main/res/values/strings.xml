@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Budget</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="sisa">Sisa</string>
+    <string name="laporan">Laporan</string>
+    <string name="summary">Summary</string>
+
+</resources>
